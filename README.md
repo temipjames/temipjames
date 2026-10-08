@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Temi James
 
 ### 🏆 Hackathons & Competitions
 * **[NSAC25 SkyChance v2](https://github.com/your-username/nsac25-skychance-v2)** — Outdoor event weather risk evaluator calculating comfort limit probabilities using NASA satellite data *(NASA Space Apps Challenge 2025)*.
