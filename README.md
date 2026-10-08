@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Temi James
+## Hi there, I'm Temi James
 I'm a 3rd-year Computer Science undergraduate, with a strong interest in web development, software engineering, and technical problem-solving. My primary focus is building responsive web applications using React, JavaScript, Next.js, and TypeScript.
 
 ### 🏆 Hackathons & Competitions
-* **[NSAC25 SkyChance v2](https://github.com/your-username/nsac25-skychance-v2)** ([Live Demo](https://nsac25-skychance-v2.vercel.app)) — Outdoor event weather risk evaluator calculating comfort limit probabilities using NASA satellite data *(NASA Space Apps Challenge 2025)*.
+* **[NSAC25 SkyChance v2](https://github.com/temipjames/nsac25-skychance-v2)** ([Live Demo](https://nsac25-skychance-v2.vercel.app)) — Outdoor event weather risk evaluator calculating comfort limit probabilities using NASA satellite data *(NASA Space Apps Challenge 2025)*.
 
 ### 💻 Personal Projects
 * **[Project Name Here](https://github.com/your-username/repo-name)** — Brief 1-line description of your independent tool or app.
