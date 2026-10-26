@@ -5,7 +5,7 @@ a 3rd-year Computer Science undergraduate, with a strong interest in web develop
 * **[NSAC25 SkyChance v2](https://github.com/temipjames/nsac25-skychance-v2)** ([Live Demo](https://nsac25-skychance-v2.vercel.app)) — Outdoor event weather risk evaluator calculating comfort limit probabilities using NASA satellite data *(NASA Space Apps Challenge 2025)*.
 
 ### 💻 Personal Projects
-* **[Keling Local Tourism](https://github.com/temipjames/keling-local-tourism)** ([Live Demo](https://keling-local-tourism.vercel.app))— Local tourism guide web app built with Next.js, TypeScript and Tailwind CSS v4, featuring custom responsive grids.
+* **[KelingKeling Local Tourism](https://github.com/temipjames/keling-local-tourism)** ([Live Demo](https://keling-local-tourism.vercel.app))— Local tourism guide web app built with Next.js, TypeScript and Tailwind CSS v4, featuring custom responsive grids.
 
 ### 🎓 Academic & Coursework Projects
 * **[Project Name Here](https://github.com/temipjames/repo-name)** — Brief description of university system or capstone project.
