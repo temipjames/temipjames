@@ -1,14 +1,14 @@
-## Hi there, I'm Temi James
-I'm a 3rd-year Computer Science undergraduate, with a strong interest in web development, software engineering, and technical problem-solving. My primary focus is building responsive web applications using React, JavaScript, Next.js, and TypeScript.
+## Hi, I'm Temi James
+a 3rd-year Computer Science undergraduate, with a strong interest in web development, software engineering, and technical problem-solving. My main focus is building responsive web applications using React, JavaScript, Next.js, and TypeScript.
 
 ### 🏆 Hackathons & Competitions
 * **[NSAC25 SkyChance v2](https://github.com/temipjames/nsac25-skychance-v2)** ([Live Demo](https://nsac25-skychance-v2.vercel.app)) — Outdoor event weather risk evaluator calculating comfort limit probabilities using NASA satellite data *(NASA Space Apps Challenge 2025)*.
 
 ### 💻 Personal Projects
-* **[Project Name Here](https://github.com/your-username/repo-name)** — Brief 1-line description of your independent tool or app.
+* **[Keling Local Tourism](https://github.com/temipjames/keling-local-tourism)** ([Live Demo](https://keling-local-tourism.vercel.app))— Local tourism guide web app built with Next.js, TypeScript and Tailwind CSS v4, featuring custom responsive grids.
 
 ### 🎓 Academic & Coursework Projects
-* **[Project Name Here](https://github.com/your-username/repo-name)** — Brief description of your university system or capstone project.
+* **[Project Name Here](https://github.com/temipjames/repo-name)** — Brief description of university system or capstone project.
 
 
 <!--
