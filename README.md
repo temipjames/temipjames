@@ -8,7 +8,7 @@ a 3rd-year Computer Science undergraduate, with a strong interest in web develop
 * **[KelingKeling Local Tourism](https://github.com/temipjames/keling-local-tourism)** ([Live Demo](https://keling-local-tourism.vercel.app))— Local tourism guide web app built with Next.js, TypeScript and Tailwind CSS v4, featuring custom responsive grids.
 
 ### 🎓 Academic & Coursework Projects
-* **[Project Name Here](https://github.com/temipjames/repo-name)** — Brief description of university system or capstone project.
+* **[KelingKeling Static (Original)](https://github.com/temipjames/keling-static-html)** (No Live Demo) — Static multi-page local tourism website built with HTML5 and CSS3 (Flexbox & Grid).
 
 
 <!--
